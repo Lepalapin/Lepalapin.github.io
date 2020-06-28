@@ -13,7 +13,11 @@
 @import url(css/hero-slider.css);
 
 
+@font-face {
 
+    font-family: "poppins";
+ src: url("Poppins-Regular.ttf")
+}
 
 
 
@@ -2596,4 +2600,9 @@ height:5px;
 }
 .details{
     background-color: #1F2935;
+    }
+
+
+    .HeaderM{
+        margin-top: 10%;
     }
