@@ -15,7 +15,7 @@
 
 @font-face {
 
-    font-family: 'poppins';
+    font-family: 'Mapoppins';
  src: url("Poppins-Regular.ttf")
 }
 
@@ -28,7 +28,7 @@
 body {
     color: #FFFFFF;
     font-size: 15px;
-    font-family: 'poppins';
+    font-family: 'Mapoppins';
     line-height: 1.80857;
     background-color: #1f1f1f;
 }
@@ -88,7 +88,7 @@ h6 {
 h1 {
     font-size: 50px;
     color: #ffffff;
-    font-family:'poppins';
+    font-family:'Mapoppins';
     font-weight: bold;
     color:#0ABEAD;
 
@@ -98,7 +98,7 @@ h1 {
 h2 {
     font-size: 22px;
     color:#0ABEAD;
-    font-family:'poppins';
+    font-family:'Mapoppins';
 }
 
 h3 {
@@ -134,7 +134,7 @@ a {
     color: #ffffff;
     text-decoration: none;
     outline: none;
-    font-family:'poppins';
+    font-family:'Mapoppins';
 }
 
 a,
@@ -2534,7 +2534,7 @@ body.app_version .dev-list .widget-title small{
 }
 
 .bio_jeu{
-    font-family: 'poppins';
+    font-family: 'Mapoppins';
     color:#FFFFFF;
 }
 
@@ -2542,7 +2542,7 @@ body.app_version .dev-list .widget-title small{
     display: flex;
   justify-content: center;
      
-        font:semiBold 16px 'poppins';
+        font:semiBold 16px 'Mapoppins';
         background:#F57F17;
         color:#FFFFFF;
         padding: 16px 32px;
@@ -2572,7 +2572,7 @@ body.app_version .dev-list .widget-title small{
 
 .texte{
     text-align:center;
-    font-family: 'poppins';
+    font-family: 'Mapoppins';
 }
 
 
@@ -2588,7 +2588,7 @@ body.app_version .dev-list .widget-title small{
 }
 
 .texte2{
-    font-family: 'poppins';
+    font-family: 'Mapoppins';
 }
 
 
