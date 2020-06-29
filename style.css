@@ -82,7 +82,8 @@ h6 {
     font-weight: normal;
     line-height: 120% !important;
     color: #FFFF;
-    margin: 0
+    margin: 0;
+	    font-family:'Mapoppins';
 }
 
 h1 {
