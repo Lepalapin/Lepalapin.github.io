@@ -88,7 +88,7 @@ h6 {
 h1 {
     font-size: 50px;
     color: #ffffff;
-    font-family:poppins;
+    font-family:'poppins';
     font-weight: bold;
     color:#0ABEAD;
 
@@ -98,7 +98,7 @@ h1 {
 h2 {
     font-size: 22px;
     color:#0ABEAD;
-    font-family:poppins;
+    font-family:'poppins';
 }
 
 h3 {
@@ -134,7 +134,7 @@ a {
     color: #ffffff;
     text-decoration: none;
     outline: none;
-    font-family:poppins;
+    font-family:'poppins';
 }
 
 a,
@@ -2534,7 +2534,7 @@ body.app_version .dev-list .widget-title small{
 }
 
 .bio_jeu{
-    font-family: poppins;
+    font-family: 'poppins';
     color:#FFFFFF;
 }
 
@@ -2542,7 +2542,7 @@ body.app_version .dev-list .widget-title small{
     display: flex;
   justify-content: center;
      
-        font:semiBold 16px poppins;
+        font:semiBold 16px 'poppins';
         background:#F57F17;
         color:#FFFFFF;
         padding: 16px 32px;
@@ -2572,7 +2572,7 @@ body.app_version .dev-list .widget-title small{
 
 .texte{
     text-align:center;
-    font-family: poppins;
+    font-family: 'poppins';
 }
 
 
@@ -2588,7 +2588,7 @@ body.app_version .dev-list .widget-title small{
 }
 
 .texte2{
-    font-family: poppins;
+    font-family: 'poppins';
 }
 
 
