@@ -19,6 +19,12 @@
  src: url('Poppins-Regular.ttf')
 }
 
+@font-face {
+
+    font-family: 'Mapoppinsbold';
+ src: url('Poppins-Bold.ttf')
+}
+
 
 
 /*------------------------------------------------------------------
@@ -88,7 +94,7 @@ h6 {
 h1 {
     font-size: 50px;
     color: #ffffff;
-    font-family:'Mapoppins';
+    font-family:'Mapoppinsbold';
     font-weight: bold;
     color:#0ABEAD;
 
@@ -98,7 +104,7 @@ h1 {
 h2 {
     font-size: 22px;
     color:#0ABEAD;
-    font-family:'Mapoppins';
+    font-family:'Mapoppinsbold';
 }
 
 h3 {
@@ -1072,7 +1078,7 @@ text-align: left;
 .pricingTable:hover {
 	box-shadow: 0 0 1.75rem rgba(2,3,3,.15);
 }
-.pricingTable .title:before,
+/*.pricingTable .title:before,
 .pricingTable .title:after{
     content: "";
     border-right: 26px solid #333;
@@ -1083,19 +1089,19 @@ text-align: left;
     left: -26px;
     transition: all 0.3s ease 0s;
 }
-.pricingTable .title:after{
+/*.pricingTable .title:after{
     border-right: none;
     border-left: 26px solid #333;
     left: auto;
     right: -26px;
-}
-.pricingTable:hover .title:before{ border-right-color: #E65100; }
+}*/
+/*.pricingTable:hover .title:before{ border-right-color: #E65100; }
 .pricingTable:hover .title:after{ border-left-color: #E65100; }
 .pricingTable .pricing-content{
     padding: 0;
     margin: 0 0 25px 0;
     list-style: none;
-}
+}*/
 .pricingTable .pricing-content li{
     
     color: #FFFFFF;

@@ -19,7 +19,11 @@
     font-family: 'Mapoppins';
  src: url('Poppins-Regular.ttf')
 }
+@font-face {
 
+    font-family: 'Mapoppinsbold';
+ src: url('Poppins-Bold.ttf')
+}
 
 /*------------------------------------------------------------------
     SKELETON
@@ -88,14 +92,14 @@ h6 {
 h1 {
     font-size: 24px;
     color: #ffffff;
-    font-family:Mapoppins;
+    font-family:Mapoppinsbold;
     color:#0ABEAD;
 }
 
 h2 {
     font-size: 22px;
     color:#0ABEAD;
-    font-family:Mapoppins;
+    font-family:Mapoppinsbold;
 }
 
 h3 {
