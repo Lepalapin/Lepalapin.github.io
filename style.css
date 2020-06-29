@@ -2,7 +2,7 @@
     IMPORT FONTS
 -------------------------------------------------------------------*/
 
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700');
+/*@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400,600,700');
 
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -16,7 +16,7 @@
 @font-face {
 
     font-family: 'Mapoppins';
- src: url("Poppins-Regular.ttf")
+ src: url('Poppins-Regular.ttf')
 }
 
 
@@ -82,8 +82,7 @@ h6 {
     font-weight: normal;
     line-height: 120% !important;
     color: #FFFF;
-    margin: 0;
-	    font-family:'Mapoppins';
+    margin: 0
 }
 
 h1 {
@@ -128,7 +127,8 @@ h5 a,
 h6 a {
     color: #ffffff;
     text-decoration: none!important;
-    opacity: 1
+    opacity: 1;
+    font-family:'Mapoppins';
 }
 
 a {
